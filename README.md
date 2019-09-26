@@ -11,3 +11,5 @@ The main file for your solution to the assignment should be
 `a1ece650.py`. You can use `test.py` for your unit tests.
 
 Commit your changes and submit on GitHub.
+
+***IMP: Please add numpy before running this code, if not already installed
