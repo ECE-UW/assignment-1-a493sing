@@ -385,7 +385,6 @@ def main():
                 vertex_generate()
                 edge_generate(E, temporary_edges)
 
-    print 'Finished. Not reading anymore'
     sys.exit(0)
 
 
